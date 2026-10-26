@@ -1,8 +1,8 @@
 
- 📊 SLA Example with Incident
+ ## 📊 SLA Example with Incident
 
 
-A real-world example showing how SLA applies to a complete incident from ticket raised to ticket closed.
+    A real-world example showing how SLA applies to a complete incident from ticket raised to ticket closed.
 
 
 ## Incident
