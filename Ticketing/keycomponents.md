@@ -1,6 +1,7 @@
 # 📋 Key Components of a Ticket
 
 
+Every ticket contains these core fields regardless of which ticketing tool is used.
 
 
 
