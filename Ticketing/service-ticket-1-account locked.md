@@ -104,7 +104,5 @@ A user cannot sign in to a company laptop because the account is locked after se
 
 ---
 
-## 💡 Next Step
 
-→ [Sample Ticket: Password Reset](./sample-ticket-password-reset.md)
 
