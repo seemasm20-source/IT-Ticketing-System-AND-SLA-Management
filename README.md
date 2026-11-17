@@ -76,9 +76,9 @@ Resolved  →  Closed, with a resolution note
 | Topic | What it covers | File |
 |-------|----------------|------|
 | **What is a Ticketing System?** | Why tickets are used, ticket types, the lifecycle, common tools | [What is a Ticketing System?](./what-is-ticketing-system.md) |
-| **Key Components of a Ticket** | The ticket fields, a sample ticket, and how to write a good ticket | [Key Components of a Ticket](./ticket-components.md) |
+| **Key Components of a Ticket** | The ticket fields, a sample ticket, and how to write a good ticket | [Key Components](https://github.com/seemasm20-source/IT-Ticketing-System-AND-SLA-Management/blob/main/Ticketing/keycomponents.md) |
 | **Ticket Status Flow** | The statuses, who acts next, the flow, and the SLA clock | [Ticket Status Flow](./ticket-status-flow.md) |
-| **Ticket Category List** | The categories, how to choose one, and subcategories | [Ticket Category List](./ticket-category-list.md) |
+| **Ticket Category List** | The categories, how to choose one, and subcategories | [Category List](https://github.com/seemasm20-source/IT-Ticketing-System-AND-SLA-Management/blob/main/Ticketing/categorylist.md) |
 | **Ticket Priority Levels** | The priority levels, the impact and urgency matrix, worked examples | [Ticket Priority Levels](./ticket-priority-levels.md) |
 
 ---
