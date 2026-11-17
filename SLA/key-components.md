@@ -1,7 +1,7 @@
 
 # 📋 SLA Key Components
 
-[ Back to README] → [README](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/README.md)
+[ Back to README] → [README](https://github.com/seemasm20-source/IT-Ticketing-System-AND-SLA-Management/blob/main/README.md)
 
 ---
 
