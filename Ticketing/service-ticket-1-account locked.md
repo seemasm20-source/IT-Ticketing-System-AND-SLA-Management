@@ -58,7 +58,7 @@ A user cannot sign in to a company laptop because the account is locked after se
 | 7 | **Reset the password only if the user had forgotten it.** A reset sets a temporary password and requires a change at the next sign-in | Not needed, because the user knows the password |
 | 8 | **Asked the user to try again** and checked Windows and Outlook | The user signs in successfully |
 
-> The details of steps 3, 4 and 6 are in [Unlock a User Account](./unlock-user-account.md), [Event ID 4740](./event-id-4740.md) and [Reset a User Password](./reset-user-password.md).
+> The details of steps 3, 4 and 6 are in [Unlock an Active Directory User Account](https://github.com/seemasm20-source/Windows-Server-Azure-AD/blob/main/Active%20Directory/unlock-account.md), [Event ID 4740 – Account Locked Out](https://github.com/seemasm20-source/Windows-Server-Azure-AD/blob/main/Event%20Viewer/event-id-4740-account-locked.md) and [Reset Active Directory User Password](https://github.com/seemasm20-source/Windows-Server-Azure-AD/blob/main/Active%20Directory/reset-password.md)
 
 > **Finding the cause matters.** If the same account locks again soon after the unlock, something is still sending the old password, such as a phone, a mapped drive or a saved credential. The caller computer name in Event 4740 shows where to look.
 
