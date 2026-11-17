@@ -2,7 +2,7 @@
 
 # 🎫 Sample Ticket - User Account Locked After Multiple Failed Sign-In Attempts
 
-[ Back to Overview] → [README.md](./README.md)
+[ Back to README] → [README](https://github.com/seemasm20-source/IT-Ticketing-System-AND-SLA-Management/blob/main/README.md)
 
 ---
 
