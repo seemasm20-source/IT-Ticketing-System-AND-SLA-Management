@@ -74,6 +74,3 @@ Every organisation sets its own priorities and times. This table is an **example
 
 ---
 
-## 💡 Next Step
-
-→ [Ticket Priority Levels](./ticket-priority-levels.md)
