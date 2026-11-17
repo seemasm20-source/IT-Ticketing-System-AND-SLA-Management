@@ -105,9 +105,7 @@ A user opens Outlook and gets the error "We couldn't find the mailbox for this a
 
 ---
 
-## 💡 Next Step
 
-→ [Sample Ticket: Account Locked](./sample-ticket-account-locked.md)
 
 
 
