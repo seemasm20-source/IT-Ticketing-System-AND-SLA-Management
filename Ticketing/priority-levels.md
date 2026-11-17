@@ -70,9 +70,7 @@ The first example is the one in [SLA Example with Incident](./sla-example-incide
 
 ---
 
-## 💡 Next Step
 
-→ [Escalation Process](./escalation-process.md)
 
 
 
