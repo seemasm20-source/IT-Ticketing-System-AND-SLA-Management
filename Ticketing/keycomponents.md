@@ -61,9 +61,6 @@ Every ticket holds the same core fields, whichever ticketing tool is used. The f
 
 ---
 
-## 💡 Next Step
-
-→ [Ticket Priority Levels](./ticket-priority-levels.md)
 
 
 
