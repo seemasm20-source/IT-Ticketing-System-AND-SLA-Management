@@ -89,8 +89,8 @@ Each sample ticket follows the same layout: ticket details, the user's message, 
 
 | Sample ticket | Category | Cause | Linked technical lab |
 |---------------|----------|-------|----------------------|
-| **User Account Locked After Failed Sign-In Attempts** | Account and Access | Too many wrong passwords | [Unlock a User Account](./unlock-user-account.md), [Event ID 4740](./event-id-4740.md) |
-| **Outlook Desktop App: Mailbox Not Found** | Software (Outlook) | No Exchange Online licence | [Assign and Remove Licences](./assign-remove-licences.md), [Corrupted Outlook Profile](./outlook-corrupted-profile.md) |
+| **User Account Locked After Failed Sign-In Attempts** | Account and Access | Too many wrong passwords | [Unlock an Active Directory User Account](https://github.com/seemasm20-source/Windows-Server-Azure-AD/blob/main/Active%20Directory/unlock-account.md), [Event ID 4740 – Account Locked Out](https://github.com/seemasm20-source/Windows-Server-Azure-AD/blob/main/Event%20Viewer/event-id-4740-account-locked.md) |
+| **Outlook Desktop App: Mailbox Not Found** | Software (Outlook) | No Exchange Online licence | [Assign and Remove License](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/Microsoft%20365%20Admin%20Center/assign-and-remove-license.md), [Fixing Corrupted Outlook Profile](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/Outlook%20and%20Exchange%20Online/fixing-corrupted-outlook-profile.md)) |
 
 | File | Description |
 |------|-------------|
