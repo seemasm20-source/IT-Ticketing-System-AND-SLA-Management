@@ -50,9 +50,7 @@ An SLA is built from a few key components: how fast a ticket gets a response, ho
 
 ---
 
-## 💡 Next Step
 
-→ [Ticket Priority Levels](./ticket-priority-levels.md)
 
 
 
