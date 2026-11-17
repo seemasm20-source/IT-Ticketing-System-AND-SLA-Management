@@ -86,9 +86,7 @@ flowchart LR
 
 ---
 
-## 💡 Next Step
 
-→ [Ticket Priority Levels](./ticket-priority-levels.md)
 
 
 
