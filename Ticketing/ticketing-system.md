@@ -87,9 +87,6 @@ New → Assigned → In Progress → (Waiting for user) → Resolved → Closed
 
 ---
 
-## 💡 Next Step
-
-→ [Ticket Lifecycle](./ticket-lifecycle.md)
 
 
 
