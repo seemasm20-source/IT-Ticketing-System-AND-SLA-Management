@@ -25,9 +25,9 @@ A user cannot sign in to a company laptop because the account is locked after se
 | **Ticket type** | Incident |
 | **Category** | Account and Access |
 | **Priority** | 🟠 High |
-| **SLA targets** | Response: 1 hour. Resolution: 8 hours (example SLA, see [SLA Key Components](./sla-key-components.md)) |
+| **SLA targets** | Response: 1 hour. Resolution: 8 hours |
 
-> **Why High?** The user cannot sign in to Windows or Outlook, so there is no workaround and the user cannot work at all. One user is affected, so some organisations would set Medium. Follow your organisation's priority rule. See [Ticket Priority Levels](./ticket-priority-levels.md).
+> **Why High?** The user cannot sign in to Windows or Outlook, so there is no workaround and the user cannot work at all. One user is affected, so some organisations would set Medium. Follow your organisation's priority rule. 
 
 ---
 
