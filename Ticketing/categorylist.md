@@ -59,8 +59,6 @@ Many tools add a second level under each category. This is an example.
 
 ---
 
-## 💡 Next Step
 
-→ [Ticket Priority Levels](./ticket-priority-levels.md)
 
 
