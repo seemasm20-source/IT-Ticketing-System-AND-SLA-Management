@@ -65,9 +65,9 @@ Resolved  →  Closed, with a resolution note
 
 | Topic | What it covers | File |
 |-------|----------------|------|
-| **What is a Service Level Agreement (SLA)?** | The definition, key terms, SLA vs OLA vs UC, and the Tier 1 and Tier 2 roles | [What is an SLA?](./what-is-sla.md) |
-| **SLA Key Components** | Response time, resolution time, prioritisation, escalation, support hours, penalties | [SLA Key Components](./sla-key-components.md) |
-| **SLA Example with Incident** | One critical ticket measured against its SLA targets, from raised to closed | [SLA Example with Incident](./sla-example-incident.md) |
+| **What is a Service Level Agreement (SLA)?** | The definition, key terms, SLA vs OLA vs UC, and the Tier 1 and Tier 2 roles | [SLA Meaning](https://github.com/seemasm20-source/IT-Ticketing-System-AND-SLA-Management/blob/main/SLA/sla-meaning.md) |
+| **SLA Key Components** | Response time, resolution time, prioritisation, escalation, support hours, penalties | [Key Components](https://github.com/seemasm20-source/IT-Ticketing-System-AND-SLA-Management/blob/main/SLA/key-components.md) |
+| **SLA Example with Incident** | One critical ticket measured against its SLA targets, from raised to closed | [SLA Incident](https://github.com/seemasm20-source/IT-Ticketing-System-AND-SLA-Management/blob/main/SLA/sla-incident.md) |
 
 ---
 
