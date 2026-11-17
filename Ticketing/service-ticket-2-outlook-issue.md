@@ -61,7 +61,7 @@ A user opens Outlook and gets the error "We couldn't find the mailbox for this a
 | 7 | **Waited for the mailbox to be created.** A new mailbox needs some time after the licence is assigned. Checked the mailbox in the Exchange admin center: **Recipients → Mailboxes** | The mailbox is listed |
 | 8 | **Asked the user** to close and reopen Outlook, and to try again | The mailbox opens |
 
-> The details of the licence steps are in [Assign and Remove Licences](./assign-remove-licences.md).
+> The details of the licence steps are in [Assign and Remove License](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/Microsoft%20365%20Admin%20Center/assign-and-remove-license.md).
 
 ---
 
@@ -81,10 +81,10 @@ A user opens Outlook and gets the error "We couldn't find the mailbox for this a
 | Check | What to do |
 |-------|-----------|
 | **The mailbox is not there yet** | Wait a little longer, and check again. It can take time, and sometimes longer than expected. If it never appears, escalate to Tier 2 or the Exchange administrator |
-| **Outlook still shows the error, but webmail works** | The Outlook profile is holding old information. Restart Outlook, then remove and add the account again, or create a new profile. See [Corrupted Outlook Profile](./outlook-corrupted-profile.md) |
-| **Wrong account in Outlook** | Check **File → Office Account**. See [Outlook Sign-In and Profile Troubleshooting](./outlook-sign-in-profile.md) |
+| **Outlook still shows the error, but webmail works** | The Outlook profile is holding old information. Restart Outlook, then remove and add the account again, or create a new profile. See  [Fixing Corrupted Outlook Profile](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/Outlook%20and%20Exchange%20Online/fixing-corrupted-outlook-profile.md) |
+| **Wrong account in Outlook** | Check **File → Office Account**. See [Outlook Sign-In and Profile Problems](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/Outlook%20and%20Exchange%20Online/outlook-sign-in-and-profile-problems.md) |
 | **The licence does not include Exchange Online** | Some licences, such as Teams-only licences, have no mailbox. Assign one that includes Exchange Online |
-| **A recently restored user** | A restored user returns without a licence. See [Delete and Restore a User](./delete-restore-user-m365.md) |
+| **A recently restored user** | A restored user returns without a licence. See [Delete and Restore User Account](https://github.com/seemasm20-source/Microsoft-Office-365/blob/main/Microsoft%20365%20Admin%20Center/delete-and-restore-user-account.md) |
 | **Hybrid or on-premises mailbox** | If the organisation has on-premises Exchange, the mailbox may live there, and an administrator must check it |
 
 ---
