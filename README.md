@@ -2,13 +2,16 @@
 
 **Portfolio:** IT Help Desk Tier 1 & Tier 2 - Service Management
 
-**Tool:** Ticketing system concepts (ServiceNow, Jira Service Management, Freshservice, ManageEngine ServiceDesk Plus, Spiceworks Cloud Help Desk)
+**Tool:** Ticketing system concepts (ServiceNow, Jira Service Management, Freshservice, ServiceDesk Plus, Spiceworks Cloud Help Desk)
 
-**Purpose:** Demonstrate how an IT Help Desk logs, prioritises, tracks and resolves tickets within agreed service levels, for IT Help Desk Tier 1 and Tier 2 roles
+**Purpose:** Demonstrate how an IT Help Desk logs, prioritises, tracks and resolves tickets within agreed service levels,
+             for IT Help Desk Tier 1 and Tier 2 roles
 
 **Author:** Seema Soapanahalli Mallikarjunaiah
 
 **Date:**  October 2026 
+
+
 ---
 
 ## 📌 Objective
